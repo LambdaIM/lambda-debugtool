@@ -11,7 +11,7 @@ make
 
 ### show real pubkey of validator pubkey
 ```
-./build/lambdadg show --pubkey lambdavalconspub1zcjduepq77q44pfk5aucvzmrkxzcrg6fsf4e9urru2ln5xs4jxm6xj494rgqj5dd9j --bech pub
+./lambdadg show --pubkey lambdavalconspub1zcjduepq77q44pfk5aucvzmrkxzcrg6fsf4e9urru2ln5xs4jxm6xj494rgqj5dd9j --bech pub
 ```
 output 
 ```
