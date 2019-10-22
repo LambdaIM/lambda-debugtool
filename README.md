@@ -1,13 +1,13 @@
 # lambdadg
 
-# build 
+# Build 
 ```
 go get github.com/LambdaIM/lambda-debugtool
 cd $GOPATH/src/github.com/LambdaIM/lambda-debugtool
 make
 ```
 
-# run
+# Run
 
 ### show real pubkey of validator pubkey
 ```
@@ -18,3 +18,10 @@ output
 ACD35F73BD94C9AF03F88C34D2D139498C6D28D0
 ```
 
+# Binary
+
+### linux
+
+```
+wget https://github.com/LambdaIM/lambda-debugtool/releases/download/v0.0.1/lambda-debugtool.tar.gz
+```
